@@ -2,7 +2,7 @@
 
 This project evaluates the impact of **Retry** and **Circuit Breaker** mechanisms on the performance and fault tolerance of a microservices system. Based on the open-source [`go-coffeeshop`](https://github.com/thangchung/go-coffeeshop) architecture, the system is stress-tested under concurrent load and its responses are used to train predictive models.
 
-Please noted that script.js and docker-compose.yaml are the replication from https://github.com/thangchung/go-coffeeshop
+Please note that script.js and docker-compose.yaml are the replicas from [`go-coffeeshop`](https://github.com/thangchung/go-coffeeshop)
 
 ## 🚀 Project Objectives
 
